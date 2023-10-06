@@ -1,0 +1,28 @@
+C:\Users\Casper\Desktop\GitHub Projects\SagaPattern\Orchestration\SharedLIBRARY\bin\Debug\net7.0\SharedLIBRARY.deps.json
+C:\Users\Casper\Desktop\GitHub Projects\SagaPattern\Orchestration\SharedLIBRARY\bin\Debug\net7.0\SharedLIBRARY.runtimeconfig.json
+C:\Users\Casper\Desktop\GitHub Projects\SagaPattern\Orchestration\SharedLIBRARY\bin\Debug\net7.0\SharedLIBRARY.dll
+C:\Users\Casper\Desktop\GitHub Projects\SagaPattern\Orchestration\SharedLIBRARY\bin\Debug\net7.0\SharedLIBRARY.pdb
+C:\Users\Casper\Desktop\GitHub Projects\SagaPattern\Orchestration\SharedLIBRARY\obj\Debug\net7.0\SharedLIBRARY.csproj.AssemblyReference.cache
+C:\Users\Casper\Desktop\GitHub Projects\SagaPattern\Orchestration\SharedLIBRARY\obj\Debug\net7.0\SharedLIBRARY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Casper\Desktop\GitHub Projects\SagaPattern\Orchestration\SharedLIBRARY\obj\Debug\net7.0\SharedLIBRARY.AssemblyInfoInputs.cache
+C:\Users\Casper\Desktop\GitHub Projects\SagaPattern\Orchestration\SharedLIBRARY\obj\Debug\net7.0\SharedLIBRARY.AssemblyInfo.cs
+C:\Users\Casper\Desktop\GitHub Projects\SagaPattern\Orchestration\SharedLIBRARY\obj\Debug\net7.0\SharedLIBRARY.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\GitHub Projects\SagaPattern\Orchestration\SharedLIBRARY\obj\Debug\net7.0\SharedLIBRARY.dll
+C:\Users\Casper\Desktop\GitHub Projects\SagaPattern\Orchestration\SharedLIBRARY\obj\Debug\net7.0\refint\SharedLIBRARY.dll
+C:\Users\Casper\Desktop\GitHub Projects\SagaPattern\Orchestration\SharedLIBRARY\obj\Debug\net7.0\SharedLIBRARY.pdb
+C:\Users\Casper\Desktop\GitHub Projects\SagaPattern\Orchestration\SharedLIBRARY\obj\Debug\net7.0\SharedLIBRARY.genruntimeconfig.cache
+C:\Users\Casper\Desktop\GitHub Projects\SagaPattern\Orchestration\SharedLIBRARY\obj\Debug\net7.0\ref\SharedLIBRARY.dll
+C:\Users\Casper\Desktop\Orchestration\SharedLIBRARY\bin\Debug\net7.0\SharedLIBRARY.deps.json
+C:\Users\Casper\Desktop\Orchestration\SharedLIBRARY\bin\Debug\net7.0\SharedLIBRARY.runtimeconfig.json
+C:\Users\Casper\Desktop\Orchestration\SharedLIBRARY\bin\Debug\net7.0\SharedLIBRARY.dll
+C:\Users\Casper\Desktop\Orchestration\SharedLIBRARY\bin\Debug\net7.0\SharedLIBRARY.pdb
+C:\Users\Casper\Desktop\Orchestration\SharedLIBRARY\obj\Debug\net7.0\SharedLIBRARY.csproj.AssemblyReference.cache
+C:\Users\Casper\Desktop\Orchestration\SharedLIBRARY\obj\Debug\net7.0\SharedLIBRARY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Casper\Desktop\Orchestration\SharedLIBRARY\obj\Debug\net7.0\SharedLIBRARY.AssemblyInfoInputs.cache
+C:\Users\Casper\Desktop\Orchestration\SharedLIBRARY\obj\Debug\net7.0\SharedLIBRARY.AssemblyInfo.cs
+C:\Users\Casper\Desktop\Orchestration\SharedLIBRARY\obj\Debug\net7.0\SharedLIBRARY.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\Orchestration\SharedLIBRARY\obj\Debug\net7.0\SharedLIBRARY.dll
+C:\Users\Casper\Desktop\Orchestration\SharedLIBRARY\obj\Debug\net7.0\refint\SharedLIBRARY.dll
+C:\Users\Casper\Desktop\Orchestration\SharedLIBRARY\obj\Debug\net7.0\SharedLIBRARY.pdb
+C:\Users\Casper\Desktop\Orchestration\SharedLIBRARY\obj\Debug\net7.0\SharedLIBRARY.genruntimeconfig.cache
+C:\Users\Casper\Desktop\Orchestration\SharedLIBRARY\obj\Debug\net7.0\ref\SharedLIBRARY.dll
