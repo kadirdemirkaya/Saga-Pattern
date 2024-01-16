@@ -2,7 +2,7 @@
 
 This project was done by using two different types (EventChoreography, Orchestration) in accordance with the saga pattern rules.
 
-##EventChoreography
+## EventChoreography
 
 ###### Event choreography is a model that describes the interaction of individual services in a system. Services use events to communicate with each other and coordinate operations.
 
@@ -13,7 +13,7 @@ This project was done by using two different types (EventChoreography, Orchestra
     - StockAPI
     - SharedLIBRARY
 
-##Orchestration
+## Orchestration
 
 ###### Orchestration is a model that centrally manages and coordinates operations in a system. A master service or orchestrator directs other services and performs operations in a specified order and according to rules
 
