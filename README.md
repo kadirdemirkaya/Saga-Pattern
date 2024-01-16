@@ -56,10 +56,10 @@ Then enter the directory of all api projects and stand up the server
 
 ## Features
 
-- Basket is created in BasketAPI
+- Basket is created and data is sent in BasketAPI
 - OrderAPI receives cart data and, depending on the situation, cancels or sends data for stock control
 - If the stock is sufficient, data will be sent again for payment or canceled
-- If the payment is made successfully in PaymentPI, the data is confirmed in the database.
+- If the payment is made successfully in PaymentPI, the data is confirmed in the database or canceled in all services.
 - The common library contains the data that all API services will use.
 - MSSQL was used for all these operations
 - The same events are handled in two different ways (EventChoreography and Orchestration)
