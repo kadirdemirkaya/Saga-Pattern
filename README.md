@@ -23,7 +23,7 @@ This project was done by using two different types (EventChoreography, Orchestra
     - PaymentAPI
     - SharedLIBRARY
     - StateMachineWorkerService
-    -StockAPI
+    - StockAPI
 
 ## Run on Your Computer
 
