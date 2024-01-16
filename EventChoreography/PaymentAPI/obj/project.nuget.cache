@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "lAATtyPyZiJhvYBPXkK+bUxFYJIK19gbrLkeq1/f5uWHfsyhHHkzSXt6CA2yAnILG296X1LR15Ob/W8NnK/BOQ==",
+  "dgSpecHash": "8vJzxKWzQXwbJMk2H9ewE3wmz3QDDzuTt4VUhcO/3BasbR0CvtyMAvrRgOoshlqSkTIrVgsvfcqdnBg5bzr5qA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Casper\\Desktop\\GitHub Projects\\SagaPattern\\EventChoreography\\PaymentAPI\\PaymentAPI.csproj",
   "expectedPackageFiles": [

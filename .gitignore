@@ -1,0 +1,6 @@
+/EventChoreography/BasketAPI/Migrations/*
+/EventChoreography/OrderAPI/Migrations/*
+/EventChoreography/PaymentAPI/Migrations/*
+/EventChoreography/StockAPI/Migrations/*
+
+/Orchestration/StateMachineWorkerService/Migrations/*

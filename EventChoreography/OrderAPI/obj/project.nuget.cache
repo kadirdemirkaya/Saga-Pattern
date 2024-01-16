@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "CMCDIewvv6lJI5N5SIYL8iTYN0XoUB56GneJyRPsxymNyyPOgRS1EraWZIx+KIhFFLEtfE7LsudRhvCh1rLwgA==",
+  "dgSpecHash": "ntukZL4QKpdFCTr64T3+9VBO+ALCFcOk/nww7Wev4ndskSVLlCjuQBWPMm2v17UOvSCfjIn/a3z/73wP39agbw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Casper\\Desktop\\GitHub Projects\\SagaPattern\\EventChoreography\\OrderAPI\\OrderAPI.csproj",
   "expectedPackageFiles": [
