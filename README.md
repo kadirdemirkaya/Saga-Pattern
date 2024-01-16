@@ -63,3 +63,9 @@ Then enter the directory of all api projects and stand up the server
 - The common library contains the data that all API services will use.
 - MSSQL was used for all these operations
 - The same events are handled in two different ways (EventChoreography and Orchestration)
+
+## Project Template
+
+![orchestration](https://github.com/kadirdemirkaya/SagaPattern/assets/126807887/7acd7f90-324e-47c3-8ce3-f7a0178b581f)
+
+![Choreography](https://github.com/kadirdemirkaya/SagaPattern/assets/126807887/4aec6b76-2093-460b-bd7d-5d641347680d)
