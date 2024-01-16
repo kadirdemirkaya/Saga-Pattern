@@ -8,9 +8,9 @@ This project was done by using two different types (EventChoreography, Orchestra
 
 - Projects inside
     - BasketAPI
-    -OrderAPI
-    -PaymentAPI
-    -StockAPI
+    - OrderAPI
+    - PaymentAPI
+    - StockAPI
     - SharedLIBRARY
 
 ##Orchestration
@@ -19,8 +19,8 @@ This project was done by using two different types (EventChoreography, Orchestra
 
 - Projects inside
     - BasketAPI
-    -OrderAPI
-    -PaymentAPI
+    - OrderAPI
+    - PaymentAPI
     - SharedLIBRARY
     - StateMachineWorkerService
     -StockAPI
