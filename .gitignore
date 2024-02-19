@@ -2,5 +2,46 @@
 /EventChoreography/OrderAPI/Migrations/*
 /EventChoreography/PaymentAPI/Migrations/*
 /EventChoreography/StockAPI/Migrations/*
-
 /Orchestration/StateMachineWorkerService/Migrations/*
+
+# Visual Studio / Rider / VS Code
+.vscode/
+*.sln
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vscode/
+*.vs
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og[sS]/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+bin/
+obj/
+[Bb]in
+[Dd]ebug*/
+[Rr]elease*/
+[Ii]ntermediate/
+[Tt]est[Rr]esult*/
+[Nn]ode_modules/
+[Dd]ebugPS/
+[Rr]eleasePS/
+npm-debug.log
+node_modules/
+wwwroot/dist/

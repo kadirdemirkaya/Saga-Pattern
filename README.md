@@ -7,23 +7,23 @@ This project was done by using two different types (EventChoreography, Orchestra
 ###### Event choreography is a model that describes the interaction of individual services in a system. Services use events to communicate with each other and coordinate operations.
 
 - Projects inside
-    - BasketAPI
-    -OrderAPI
-    -PaymentAPI
-    -StockAPI
-    - SharedLIBRARY
+  - BasketAPI
+  - OrderAPI
+  - PaymentAPI
+  - StockAPI
+  - SharedLIBRARY
 
 ##Orchestration
 
 ###### Orchestration is a model that centrally manages and coordinates operations in a system. A master service or orchestrator directs other services and performs operations in a specified order and according to rules
 
 - Projects inside
-    - BasketAPI
-    -OrderAPI
-    -PaymentAPI
-    - SharedLIBRARY
-    - StateMachineWorkerService
-    -StockAPI
+  - BasketAPI
+  - OrderAPI
+  - PaymentAPI
+  - SharedLIBRARY
+  - StateMachineWorkerService
+  - StockAPI
 
 ## Run on Your Computer
 
