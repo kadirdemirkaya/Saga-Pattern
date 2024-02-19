@@ -2,28 +2,28 @@
 
 This project was done by using two different types (EventChoreography, Orchestration) in accordance with the saga pattern rules.
 
-##EventChoreography
+## EventChoreography
 
 ###### Event choreography is a model that describes the interaction of individual services in a system. Services use events to communicate with each other and coordinate operations.
 
 - Projects inside
-  - BasketAPI
-  - OrderAPI
-  - PaymentAPI
-  - StockAPI
-  - SharedLIBRARY
+    - BasketAPI
+    - OrderAPI
+    - PaymentAPI
+    - StockAPI
+    - SharedLIBRARY
 
-##Orchestration
+## Orchestration
 
 ###### Orchestration is a model that centrally manages and coordinates operations in a system. A master service or orchestrator directs other services and performs operations in a specified order and according to rules
 
 - Projects inside
-  - BasketAPI
-  - OrderAPI
-  - PaymentAPI
-  - SharedLIBRARY
-  - StateMachineWorkerService
-  - StockAPI
+    - BasketAPI
+    - OrderAPI
+    - PaymentAPI
+    - SharedLIBRARY
+    - StateMachineWorkerService
+    - StockAPI
 
 ## Run on Your Computer
 
@@ -56,10 +56,16 @@ Then enter the directory of all api projects and stand up the server
 
 ## Features
 
-- Basket is created in BasketAPI
+- Basket is created and data is sent in BasketAPI
 - OrderAPI receives cart data and, depending on the situation, cancels or sends data for stock control
 - If the stock is sufficient, data will be sent again for payment or canceled
-- If the payment is made successfully in PaymentPI, the data is confirmed in the database.
+- If the payment is made successfully in PaymentPI, the data is confirmed in the database or canceled in all services.
 - The common library contains the data that all API services will use.
 - MSSQL was used for all these operations
 - The same events are handled in two different ways (EventChoreography and Orchestration)
+
+## Project Template
+
+![orchestration](https://github.com/kadirdemirkaya/SagaPattern/assets/126807887/7acd7f90-324e-47c3-8ce3-f7a0178b581f)
+
+![Choreography](https://github.com/kadirdemirkaya/SagaPattern/assets/126807887/4aec6b76-2093-460b-bd7d-5d641347680d)
