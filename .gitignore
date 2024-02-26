@@ -1,9 +1,3 @@
-/EventChoreography/BasketAPI/Migrations/*
-/EventChoreography/OrderAPI/Migrations/*
-/EventChoreography/PaymentAPI/Migrations/*
-/EventChoreography/StockAPI/Migrations/*
-/Orchestration/StateMachineWorkerService/Migrations/*
-
 # Visual Studio / Rider / VS Code
 .vscode/
 *.sln
@@ -45,3 +39,6 @@ obj/
 npm-debug.log
 node_modules/
 wwwroot/dist/
+
+**/Logs/*
+**/Migrations/*
